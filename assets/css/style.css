@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* Set the body's background color. */
 body {
     background-color: #d9dcd6;
 }
 
+/* Style of Header. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,17 +17,20 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+/*Set H1 style. */
+h1 {
     display: inline-block;
     color: blue;
     font-size: 48px;
 }
 
+/* Set class to orange. */
 .seo {
     color: orange;
 }
 
-.header nav {
+/* Set navigation element style. */
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,20 +38,24 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
+/* Set unordered list to not be styled. */
+ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+/* Set style for list */
+li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Set link color to white with no decoration */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Set the style of the background filler image. */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,12 +65,14 @@ a {
     background-position: center;
 }
 
+/* Set the style of the main element. */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Set the style of the SEO section. */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -71,24 +82,29 @@ main {
     color: #ffffff;
 }
 
+/* Set max heights for images. */
 img {
     max-height: 200px;
 }
 
+/* Set the margin for float-left class */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Set the style for H2 */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Set the font size for paragraphs. */
 p {
     font-size: 16px;
 }
 
+/* Set style for the Online Reputations Management section. */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -98,11 +114,13 @@ p {
     color: #ffffff;
 }
 
+/* Set the margin for float-right class */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Set style for the Social Media Marketing section. */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,6 +130,7 @@ p {
     color: #ffffff;
 }
 
+/* Set style for the Aside element. */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -123,22 +142,26 @@ aside {
     background-color: #2589bd;
 }
 
+/* Set style for the Benefits section. */
 .benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Set style for H3. */
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Set style for images in the Benefits section. */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Set style for the Footer element. */
 footer {
     padding: 30px;
     clear: both;
@@ -146,6 +169,7 @@ footer {
     text-align: center;
 }
 
+/* Set style for H4. */
 h4 {
     font-size: 20px;
 }
