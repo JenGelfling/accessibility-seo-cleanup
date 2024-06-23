@@ -20,13 +20,13 @@ body {
 /*Set H1 style. */
 h1 {
     display: inline-block;
-    color: blue;
+    color: #ffffff;
     font-size: 48px;
 }
 
 /* Set class to orange. */
 .seo {
-    color: orange;
+    color: #dadcd5;
 }
 
 /* Set navigation element style. */
